@@ -1,0 +1,10 @@
+C:\Users\K\Documents\Visual Studio 2015\Projects\IceManager\IceManager\bin\Debug\IceManager.exe.config
+C:\Users\K\Documents\Visual Studio 2015\Projects\IceManager\IceManager\bin\Debug\IceManager.exe
+C:\Users\K\Documents\Visual Studio 2015\Projects\IceManager\IceManager\bin\Debug\IceManager.pdb
+C:\Users\K\Documents\Visual Studio 2015\Projects\IceManager\IceManager\obj\Debug\Interop.iTunesLib.dll
+C:\Users\K\Documents\Visual Studio 2015\Projects\IceManager\IceManager\obj\Debug\IceManager.csproj.ResolveComReference.cache
+C:\Users\K\Documents\Visual Studio 2015\Projects\IceManager\IceManager\obj\Debug\IceManager.Form1.resources
+C:\Users\K\Documents\Visual Studio 2015\Projects\IceManager\IceManager\obj\Debug\IceManager.Properties.Resources.resources
+C:\Users\K\Documents\Visual Studio 2015\Projects\IceManager\IceManager\obj\Debug\IceManager.csproj.GenerateResource.Cache
+C:\Users\K\Documents\Visual Studio 2015\Projects\IceManager\IceManager\obj\Debug\IceManager.exe
+C:\Users\K\Documents\Visual Studio 2015\Projects\IceManager\IceManager\obj\Debug\IceManager.pdb
